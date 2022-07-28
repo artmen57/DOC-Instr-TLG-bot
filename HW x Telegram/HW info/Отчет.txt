@@ -1,0 +1,9 @@
+27 Jul 2022 11:55:15 CPU usage level: 16.1
+27 Jul 2022 11:55:17 CPU usage level: 13.3
+28 Jul 2022 11:57:10 CPU usage level: 15.4
+28 Jul 2022 11:57:12 CPU usage level: 12.7
+28 Jul 2022 11:57:14 CPU usage level: 16.4
+28 Jul 2022 11:57:16 CPU usage level: 10.2
+28 Jul 2022 11:57:20 CPU usage level: 11.2
+28 Jul 2022 11:57:24 CPU usage level: 12.5
+28 Jul 2022 11:57:26 CPU usage level: 12.8
