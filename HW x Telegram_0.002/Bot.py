@@ -10,7 +10,7 @@ from telegram.update import Update
 import check2, os,re
 
 
-id="1285601447:AAGIhhPP4v6EPADkrcdKR1L9YjW-z7UZstU"
+id="" # Enter Telegram Token
 upd=Updater(id,use_context=True)
 command = [BotCommand("start","to start something"),
             BotCommand("help", "Узнать про функционал бота"),
